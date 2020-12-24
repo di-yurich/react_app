@@ -1,0 +1,28 @@
+body{
+  background-color: burlywood;
+}
+
+.App {
+  text-align: center;
+  
+
+}
+
+.obj {
+  margin-left: 350px;
+  text-align: left;
+  display: flex;
+  justify-content: space-around;
+  color:blue;
+  margin-bottom: 20px;
+  width: 50%;
+  font-weight: 700;
+}
+
+.button{
+  width: 150px;
+}
+
+.label, .input{
+  width: 100px;
+}
